@@ -1,0 +1,18 @@
+.odd_element{
+	background-color: rgb(255, 99, 71);
+	font-family: "Verdana", "DejaVu Sans", sans-serif
+}
+
+.share_font{
+	font-size: 24px;
+}
+
+#second{
+	color: blue;
+	font-size: 36px;
+}
+
+#fourth{
+	background-color:rgb(173, 249, 71);
+	font-weight: bold;
+}
